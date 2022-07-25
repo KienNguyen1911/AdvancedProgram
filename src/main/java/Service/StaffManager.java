@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package qlbh;
+package entity;
 
 /**
  *
  * @author ngkie
  */
-public class CreateBill {
-    // thêm sửa xóa 
+public class StaffManager {
+    
 }

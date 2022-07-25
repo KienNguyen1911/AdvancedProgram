@@ -3,16 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.oop;
-
-import java.util.Date;
+package entity;
 
 /**
  *
  * @author ngkie
  */
-public class Bill {
-    String idBill, idStaff;
-    Date dayCreate;
+public class MainManager {
     
 }
